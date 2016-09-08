@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/test",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nj",
+      "email": "njyishi@126.com"
+    }
+  ],
+  "require": {
+    "php-amqplib/php-amqplib": "2.5.*"
+  }
+}
